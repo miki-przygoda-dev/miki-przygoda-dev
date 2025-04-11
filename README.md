@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🤖 DevAccount: Authorized to Click Things
 
-<!--
-**miki-przygoda-dev/miki-przygoda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a secondary GitHub account created strictly for testing, automated workflows, and poking buttons with Cypress.
 
-Here are some ideas to get you started:
+### What It Does
+- Runs automated browser tests
+- Accesses specific repos for validation
+- Keeps your main account clean and focused
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What It Doesn’t Do
+- Sleep
+- Log in like a normal person
+- Push actual code (trust me, that's for [@miki-przygoda](https://github.com/miki-przygoda))
+
+---
+
+🧪 Automation-powered.  
+🧼 Human-curated.  
+🔗 Controlled access only.
+
+> It logs in. It tests. It disappears.
+> It was easier this way trust me...
